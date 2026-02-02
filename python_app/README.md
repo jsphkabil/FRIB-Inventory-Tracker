@@ -13,6 +13,7 @@ A desktop application for tracking IT equipment across multiple locations, built
 
 ## Upcoming Features
 - Item History
+- Create report
 
 ## Requirements
 
