@@ -52,7 +52,7 @@ python_app/
   
   # Inventory Tracker App (React web-app)
 
-  **Current version along with current setup instructions given above and in python_app folder**
+  **Most current version is python, information listed above and in the python_app folder**
   
   
   This is a code bundle for Inventory Tracker App. The original project is available at https://www.figma.com/design/TMlsMJG48JqFNrJ863EuXq/Inventory-Tracker-App.
