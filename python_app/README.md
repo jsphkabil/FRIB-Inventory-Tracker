@@ -16,6 +16,7 @@ A desktop application for tracking IT equipment across multiple locations, built
 - Create Report
 - Expected Count (Number of each item we want at least)
 - Low Item Report
+- Auto-refresh
 
 ## Requirements
 
