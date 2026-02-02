@@ -14,6 +14,7 @@ A desktop application for tracking IT equipment across multiple locations, built
 ## Upcoming Features
 - Item History
 - Create Report
+- Expected Count (Number of each item we want at least)
 
 ## Requirements
 
