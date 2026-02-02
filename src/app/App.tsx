@@ -132,7 +132,7 @@ export default function App() {
           </div>
           
           {/* Action Buttons */}
-          <div className="flex gap-3 justify-end">
+          <div className="flex flex-col-reverse sm:flex-row gap-3 sm:justify-end">
             <DeployComputerDialog inventory={inventory} onDeploy={handleDeploy} />
             <AddItemDialog locations={LOCATIONS} onAddItem={handleAddItem} />
           </div>
