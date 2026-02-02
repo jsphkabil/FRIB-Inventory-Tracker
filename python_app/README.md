@@ -23,6 +23,10 @@ cd python_app
 python inventory_app.py
 ```
 
+## Detailed Instructions
+On GitHub repo click green 'Code' button > Download ZIP > Unzip > Type and enter 'cmd' in address bar(while in the folder path) >
+In terminal enter 'cd python_app' > In terminal enter 'python inventory_app.py'
+
 ## Database
 
 The application uses SQLite and automatically creates an `inventory.db` file in the same directory on first run. The database is seeded with sample data including:
