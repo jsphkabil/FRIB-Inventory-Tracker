@@ -1,5 +1,5 @@
   # Helproom Inventory Management Program (Python)
-  **Files in python_app folder**
+  **All files in python_app folder**
 
   A desktop application for tracking IT equipment across multiple locations, built with Python, Tkinter, and SQLite.
 
