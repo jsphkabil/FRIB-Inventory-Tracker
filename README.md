@@ -1,7 +1,7 @@
 
   # Inventory Tracker App
 
-  **Current version along with current setup instructions in python.app folder**
+  **Current version along with current setup instructions in python_app folder**
   
   This is a code bundle for Inventory Tracker App. The original project is available at https://www.figma.com/design/TMlsMJG48JqFNrJ863EuXq/Inventory-Tracker-App.
 
