@@ -11,6 +11,9 @@ A desktop application for tracking IT equipment across multiple locations, built
 - **Deploy Computer**: Subtract multiple items at once when setting up a new computer
 - **Summary Stats**: View total counts per location at a glance
 
+## Upcoming Features
+- Item History
+
 ## Requirements
 
 - Python 3.10 or higher
