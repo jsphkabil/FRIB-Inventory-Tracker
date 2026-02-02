@@ -1,5 +1,5 @@
 
-  # Inventory Tracker App
+  # Inventory Tracker App (React)
 
   **Current version along with current setup instructions in python_app folder**
   
